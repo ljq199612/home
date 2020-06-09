@@ -1,0 +1,20 @@
+/ignore/
+/trash/
+
+.directory
+
+*.swp
+*.swn
+*.swo
+
+
+# git init
+# git add .
+# git rm HEAD .   // 撤销 add
+
+# git commit -m "first commit"
+# git reset --hard_id  // 回到指定id的那一版  //git log 显示 id
+
+# git remote add origin git@github.com:ljq199612/ljq199612.github.io.git
+# git remote set-url origin git@github.com:ljq199612/ljq199612.github.io.git
+# git push -u origin master
